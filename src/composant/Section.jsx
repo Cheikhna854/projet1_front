@@ -11,5 +11,5 @@ return(
 
 
 )
-}
+};
 export default Section
