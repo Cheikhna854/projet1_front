@@ -1,4 +1,9 @@
-
+import Box from "../assets/p2.jpg";
+import Maillot from "../assets/p6.jpg";
+import Tshirt from "../assets/p7.jpg";
+import Parfum from "../assets/p9.jpg";
+import Montre from "../assets/p10.jpg";
+import Djalabe from "../assets/p11.jpg";
 
 const produits = [
   { id: 1, nom: 'Box',     prix: 8500,  image:'src/assets/p2.jpg'},
