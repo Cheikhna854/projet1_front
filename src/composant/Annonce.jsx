@@ -6,12 +6,12 @@ import Montre from "../assets/p10.jpg";
 import Djalabe from "../assets/p11.jpg";
 
 const produits = [
-  { id: 1, nom: 'Box',     prix: 8500,  image:'src/assets/p2.jpg'},
-  { id: 2, nom: 'Maillot', prix: 7000,  image: 'src/assets/p6.jpg'},
-  { id: 3, nom: 'Tshirt',  prix: 5000,  image: 'src/assets/p7.jpg'},
-  { id: 4, nom: 'Parfum',  prix: 8500,  image: 'src/assets/p9.jpg'},
-  { id: 5, nom: 'Montre',  prix: 15000, image: 'src/assets/p10.jpg' },
-  { id: 6, nom: 'Djalabe', prix: 10000, image: 'src/assets/p11.jpg' },
+  { id: 1, nom: "Box", prix: 8500, image: Box },
+  { id: 2, nom: "Maillot", prix: 7000, image: Maillot },
+  { id: 3, nom: "Tshirt", prix: 5000, image: Tshirt },
+  { id: 4, nom: "Parfum", prix: 8500, image: Parfum },
+  { id: 5, nom: "Montre", prix: 15000, image: Montre },
+  { id: 6, nom: "Djalabe", prix: 10000, image: Djalabe },
 ];
 
 function Produits() {
